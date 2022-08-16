@@ -2,6 +2,7 @@
 Independent Research Project: Effects of Valproic Acid and Similarity of Gene Expression Changes Compared to Obesity
 
 Pipeline:
+
 I. Getting raw data from NCBI GEO:
   1. GEO_datasetsSearch.ipnyb
   2. GEO_dataExtraction.ipnyb
