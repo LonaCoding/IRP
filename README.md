@@ -11,5 +11,5 @@ II. Reading gene expression read files:
   5. reading_NimbleGenIllumina.R
 III. Analyse data:
   6. analysis_differentialGE.R
-  7. analysis_WCNA.r
+  7. analysis_WCNA.R
   8. analysis_foldAndPathComparison.R
