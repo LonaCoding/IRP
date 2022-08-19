@@ -13,10 +13,10 @@ The following files were originally written and supplied by Dr Marcin Wozniak:
   6. analysis_differentialGE.R (with substantial modifications/additions done by the owner of this repository)
 
 analysis_WCNA.R, with substantial modifications/additions done by the owner of this repository, was mostly based on code from "Tutorials for the WGCNA package" by Peter Langfelder and Steve Horvath (https://horvath.genetics.ucla.edu/html/CoexpressionNetwork/Rpackages/WGCNA/Tutorials/index.html), specifically: 
-"Tutorial for the WGCNA package for R:
+\n"Tutorial for the WGCNA package for R:
 I. Network analysis of liver expression data in female mice
 1. Data input and cleaning" 
-(https://horvath.genetics.ucla.edu/html/CoexpressionNetwork/Rpackages/WGCNA/Tutorials/FemaleLiver-01-dataInput.pdf) 
+(https://horvath.genetics.ucla.edu/html/CoexpressionNetwork/Rpackages/WGCNA/Tutorials/FemaleLiver-01-dataInput.pdf)
 and 
 "Tutorial for the WGCNA package for R:
 I. Network analysis of liver expression data in female mice
