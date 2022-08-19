@@ -13,15 +13,15 @@ The following files were originally written and supplied by Dr Marcin Wozniak:
   6. analysis_differentialGE.R (with substantial modifications/additions done by the owner of this repository)
 
 analysis_WCNA.R, with substantial modifications/additions done by the owner of this repository, was mostly based on code from "Tutorials for the WGCNA package" by Peter Langfelder and Steve Horvath (https://horvath.genetics.ucla.edu/html/CoexpressionNetwork/Rpackages/WGCNA/Tutorials/index.html), specifically: 
-"Tutorial for the WGCNA package for R:
-I. Network analysis of liver expression data in female mice
-1. Data input and cleaning" 
-(https://horvath.genetics.ucla.edu/html/CoexpressionNetwork/Rpackages/WGCNA/Tutorials/FemaleLiver-01-dataInput.pdf)
-and 
-"Tutorial for the WGCNA package for R:
-I. Network analysis of liver expression data in female mice
-2.a Automatic network construction and module detection"
-(https://horvath.genetics.ucla.edu/html/CoexpressionNetwork/Rpackages/WGCNA/Tutorials/FemaleLiver-02-networkConstr-auto.pdf)
+<br>"Tutorial for the WGCNA package for R:</br>
+<br>I. Network analysis of liver expression data in female mice</br>
+<br>1. Data input and cleaning" </br>
+<br>(https://horvath.genetics.ucla.edu/html/CoexpressionNetwork/Rpackages/WGCNA/Tutorials/FemaleLiver-01-dataInput.pdf)</br>
+<br>and </br>
+<br>"Tutorial for the WGCNA package for R:</br>
+<br>I. Network analysis of liver expression data in female mice</br>
+<br>2.a Automatic network construction and module detection"</br>
+<br>(https://horvath.genetics.ucla.edu/html/CoexpressionNetwork/Rpackages/WGCNA/Tutorials/FemaleLiver-02-networkConstr-auto.pdf)</br>
 
 
 All CSV files used as input in analysis_foldAndPathComparison.R, with the exception of vpa_significant pathway.csv and VPA_gene_set_enrichment.csv, were given by Dr Marcin Wozniak from unpublished materials for use in the project and would not be available via any scripts in this repository.
