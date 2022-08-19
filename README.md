@@ -1,6 +1,8 @@
 # IRP
 Independent Research Project: Effects of Valproic Acid and Similarity of Gene Expression Changes Compared to Obesity
 
+## Acknowledgement: 
+The author would like to thank Dr Marcin Wozniak for providing all of the scripts, with the exception of analysis_foldAndPathComparison.R
 
 ## Pipeline:
 
